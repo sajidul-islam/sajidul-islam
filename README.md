@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Munshi Sajidul Islam</h1>
 <h3 align="center">A passionate Hardware designer from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://dribbble.com/shots/2487252-hardware-project-animation)">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/userupload/20819817/file/original-390212277d150653ffaf9a428747bdce.gif">
 - 🔭 I’m currently working as RA in **Qatar University**
 
 - 🌱 I’m currently learning **Tiny ML, Edge Computing**
